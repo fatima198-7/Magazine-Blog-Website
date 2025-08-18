@@ -1,2 +1,1 @@
-# Magazine-Blog-Website
-This is my Second Repository.
+This website is built using HTML & CSS.
